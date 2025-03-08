@@ -1,12 +1,7 @@
 <div><img src="https://media.licdn.com/dms/image/v2/D5612AQGxLv_OU456RQ/article-cover_image-shrink_720_1280/B56ZV0tkgVGoAI-/0/1741419863353?e=1746662400&v=beta&t=XrrCcGzx07UzwnXeeyj8ufVjh9MfVfD8QKZ5yeptX2Y" loading="lazy" alt="" id="ember551"></div>
 <h1 dir="ltr"><span data-scaffold-immersive-reader-title="">AdMotion Review: The Game-Changing Tool for Effortless Cinematic Video Creation</span></h1>
 <div>
-  <div>
-    <div>
-      
-      
-    </div>
-  
+  <div>    
   </div>
   <div data-scaffold-immersive-reader-content="">
     <div>
