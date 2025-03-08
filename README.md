@@ -3,32 +3,10 @@
 <div>
   <div>
     <div>
-      <div>
-        <div id="ember552">
-          <div id="ember553" type="square"><a href="https://www.linkedin.com/company/aidigireview/" id="ember554">
-            <div><img src="https://media.licdn.com/dms/image/v2/D560BAQGo91ez9q5drw/company-logo_100_100/company-logo_100_100/0/1737528704970?e=1749686400&v=beta&t=9kLQjEBUgrEK1rrmpLy-x9mVmY36sfhlaPgWOjGC-Cw" id="ember555"></div>
-          </a></div>
-          <div id="ember556">
-            <div id="ember557"><a href="https://www.linkedin.com/company/aidigireview/" id="ember558">
-              <h2>aidigireview</h2>
-            </a></div>
-            <div id="ember559">17 followers</div>
-          </div>
-        </div>
-      </div>
-      <div><span tabindex="-1" id="ember560">
-        <button aria-label="Open Immersive Reader" aria-describedby="artdeco-hoverable-artdeco-gen-73" type="button"></button>
-        <div id="artdeco-gen-73">
-          <div id="ember562"></div>
-        </div>
-        </span><span tabindex="-1" id="ember563">
-          <button aria-label="Save" aria-describedby="artdeco-hoverable-artdeco-gen-74" id="ember564"> </button>
-          <div id="artdeco-gen-74">
-            <div id="ember566"></div>
-          </div>
-        </span></div>
+      
+      
     </div>
-    <div>March 8, 2025</div>
+  
   </div>
   <div data-scaffold-immersive-reader-content="">
     <div>
